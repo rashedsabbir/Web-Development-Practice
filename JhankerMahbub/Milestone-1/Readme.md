@@ -7,3 +7,4 @@
 - em, strong are semantic(meaningful) tags.
 - inline tag(in a line) strong, em, i, small, span
 - block --> p, h1, div
+- container tages --> ul, ol, div;
